@@ -23,3 +23,5 @@ nonameships.pw:8800
 143.167.132.10:27028
 #Tayaut Engineering
 kerbal.tayaut.net:8800
+#Cybrix Games 24/7 Server
+holson1070.xyz:8800
